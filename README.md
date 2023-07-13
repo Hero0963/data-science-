@@ -1,6 +1,7 @@
 # data science practical exploration
 
-+ ## data science X machine learning X colab
+## This is the content of the book 'Data Science X Machine Learning X Colab.' This project contains exercises for each chapter.  
+
 [![]( https://www.flag.com.tw/assets/img/bookpic/F1325.jpg)](https://www.flag.com.tw/books/product/F1325)
 
 ### python code
